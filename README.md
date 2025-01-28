@@ -1,7 +1,6 @@
-# Mobile Manipulation Instruction Generation from Multiple Images with　Automatic Metric Enhancement
+# Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement
 
-This repository contains the code for the paper Mobile Manipulation Instruction Generation from Multiple Images with
-Automatic Metric Enhancement (RA-L 2025)
+This repository contains the code for the paper Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement (RA-L 2025)
 
 Kei Katsumata, Motonari Kambara, Daichi Yashima, Ryosuke Korekata and Komei Sugiura
 
